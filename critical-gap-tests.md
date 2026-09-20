@@ -1,12 +1,12 @@
 # Critical Gap Tests
 
 ## Test E — Impersonation Generalization (brand NOT in the rule's example list)
-**Expected: Company Legitimacy TRIGGERED — HIGH, Impersonation Risk. Score should drop to High Risk (2-3/10) via the Step 2 override, exactly like Flipkart/Meesho. This tests whether the rule generalizes beyond its listed examples (Flipkart, Meesho, TCS, Amazon, Infosys, Google, Zomato, Swiggy, Wipro, HCL, Accenture, Deloitte) to any real, well-known brand.**
+**Expected: Company Legitimacy TRIGGERED — HIGH, Impersonation Risk. Score should drop to High Risk (2-3/10) via the Step 2 override, exactly like Flipkart/Meesho. This tests whether the rule generalizes beyond its listed examples (Flipkart, Meesho, TCS, Amazon, Infosys, Google, Zomato, Swiggy, Wipro, HCL, Accenture, Deloitte) to any real, well-known brand not explicitly listed. (Note: this test was originally run against a real large IT company's name; replaced here with a fictional placeholder for public sharing.)**
 
 ```
 Job Opening — Immediate Hiring!
 
-Company: Cognizant
+Company: Meridian Tech Solutions
 
 We are conducting walk-in interviews for multiple roles including Customer Support Executive, Data Entry Operator, and Back Office Assistant.
 

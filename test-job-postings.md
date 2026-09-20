@@ -6,19 +6,19 @@ Reference set of job postings used to test the app. Expected result noted for ea
 
 ## 1. Ambiguous / Auto-reply (Expected: ~6/10, CAUTION)
 
-**Source:** Auto-reply from "QualifyCode"
+**Source:** Auto-reply from "Verdant Tech"
 
 ```
 Hi KEERTHI MORUGU,
-Thanks for applying for the Software Engineer Intern role at QualifyCode.
+Thanks for applying for the Software Engineer Intern role at Verdant Tech.
 Your application has been successfully received.
 We will review your application and, if your profile is shortlisted, we'll reach out with the next steps.
 What happens next?
 You don't need to take any action right now. Just keep an eye on your inbox — we'll use email to share any updates about your application, including information about the next stage of the process.
 Please also check your spam, junk, or promotions folder from time to time to make sure you don't miss an important update from us.
-Thanks again for your interest in QualifyCode. We appreciate the time you put into your application and look forward to reviewing it.
+Thanks again for your interest in Verdant Tech. We appreciate the time you put into your application and look forward to reviewing it.
 Best,
-Team QualifyCode
+Team Verdant Tech
 ```
 
 ---
